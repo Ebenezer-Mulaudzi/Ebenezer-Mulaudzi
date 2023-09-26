@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ebenezer-Mulaudzi
-- 👀 I’m interested in robotics and software development.
-- 🌱 I’m currently learning python, C# and java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in robotics and embedded systems.
+- 🌱 I’m currently learning python, C, C++ and ROS2
+- 💞️ I’m looking to collaborate on building and designing robots and developing AI
+- 📫 How to reach me Email: tyson18tre@gmail.com Contact NO: 0781453827
 
 <!---
 Ebenezer-Mulaudzi/Ebenezer-Mulaudzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
