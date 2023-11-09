@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ebenezer-Mulaudzi
 - 👀 I’m interested in robotics and embedded systems.
 - 🌱 I’m currently learning python, C, C++ and ROS2
-- 💞️ I’m looking to collaborate on building and designing robots and developing AI
+- 💞️ I’m looking to collaborate on building and designing robots and developing embedded systems
 - 📫 How to reach me Email: tyson18tre@gmail.com Contact NO: 0781453827
 
 <!---
